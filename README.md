@@ -18,3 +18,5 @@ Gradient Boosted Decision Tree Brier Skill Score: 0.9821<br>
 Random Forest Brier Skill Score: 0.9845<br>
 
 <b>The best model was the Random Forest, with an improvement of 0.1238 in Brier Skill Score over the basline model!</b>
+<br>
+Our presentations slideshow can be found [here](https://docs.google.com/presentation/d/1KhLpU8MSnFs5DcdjMCNzpHafweQj0R0BU70e82JmLeM/edit?usp=sharing)
