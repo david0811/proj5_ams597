@@ -13,8 +13,8 @@ Using Automated Surface Observation System data from NCDC, build a supervised cl
 
 <b>Results:</b><br>
 (All results are for test data)<br>
-Baseline model Brier Skill Score: 0.8607
-Gradient Boosted Decision Tree Brier Skill Score: 0.9821
-Random Forest Brier Skill Score: 0.9845
+Baseline model Brier Skill Score: 0.8607<br>
+Gradient Boosted Decision Tree Brier Skill Score: 0.9821<br>
+Random Forest Brier Skill Score: 0.9845<br>
 
 <b>The best model was the Random Forest, with an improvement of 0.1238 in Brier Skill Score over the basline model!</b>
