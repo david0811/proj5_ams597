@@ -5,7 +5,7 @@
 <b>Task:</b><br>
 Using Automated Surface Observation System data from NCDC, build a supervised classification algorithm to predict frozen vs. liquid precipitation type.
 
-<b>Notebooks:</b><br>
+<b>Notebooks:</b>
 - `DataProcessing`: Parses the METAR data and stores readings for all yeares in a single csv file.
 - `LogisticRegression`: Baseline model; scikit-learn's `LogisticRegression` with default parameters.
 - `GradientBoostedDecisionTree`: Implementation of sckikit-learn's `GradientBoostingClassifier` including hyperparameter optimisation.
@@ -17,4 +17,4 @@ Baseline model Brier Skill Score: 0.8607
 Gradient Boosted Decision Tree Brier Skill Score: 0.9821
 Random Forest Brier Skill Score: 0.9845
 
-<b>The best model was the Random Forest, with an improvement of 0.1238 in Brier Skill Score over the basline model!<\b>
+<b>The best model was the Random Forest, with an improvement of 0.1238 in Brier Skill Score over the basline model!</b>
